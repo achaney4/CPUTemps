@@ -1,1 +1,1 @@
-Program takes an input file similar to the tempData file that contains CPU temperatures and separates each column into its own vector. After each column is parsed, linear interpolation is performed on each vector. Submitted as a semester project in 2022.
+Program takes an input file similar to the tempData file that contains CPU temperatures and separates each column into its own vector. After each column is parsed, linear interpolation is performed on each vector. Results are sent to an output file. Submitted as a semester project in 2022.
